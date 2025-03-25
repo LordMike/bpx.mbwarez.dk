@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "DysonSphereBlueprints.Web",
   "resources": {
-    "hash": "sha256-DQ/w5nfu75BOUmlFoD7WpvrxC75HLFYNuxZ8LKZpSdc=",
+    "hash": "sha256-+tw5pDQhu6X6in8Y0zqVoE3sYqAwFY0Me/pFitrdF3I=",
     "fingerprinting": {
-      "DysonSphereBlueprints.Analysis.bva6eo9xz5.wasm": "DysonSphereBlueprints.Analysis.wasm",
-      "DysonSphereBlueprints.Gamelibs.i9ddtethgf.wasm": "DysonSphereBlueprints.Gamelibs.wasm",
-      "DysonSphereBlueprints.ItemStore.047fwkx4ur.wasm": "DysonSphereBlueprints.ItemStore.wasm",
-      "DysonSphereBlueprints.Web.raa92nxxg3.wasm": "DysonSphereBlueprints.Web.wasm",
+      "DysonSphereBlueprints.Analysis.03p7tlx5os.wasm": "DysonSphereBlueprints.Analysis.wasm",
+      "DysonSphereBlueprints.Gamelibs.e5n2pgkybv.wasm": "DysonSphereBlueprints.Gamelibs.wasm",
+      "DysonSphereBlueprints.ItemStore.vfkwp2nc1l.wasm": "DysonSphereBlueprints.ItemStore.wasm",
+      "DysonSphereBlueprints.Web.umtockefdm.wasm": "DysonSphereBlueprints.Web.wasm",
       "Microsoft.AspNetCore.Components.Forms.o9iakyungi.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.g07nhv2huf.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.mi6jiwti78.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -136,10 +136,10 @@
       "System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm": "sha256-bAbPaONHne7R1hItHoY8/SYWlDb84JZQ1cxd1Y+tJn0="
     },
     "assembly": {
-      "DysonSphereBlueprints.Analysis.bva6eo9xz5.wasm": "sha256-eYUwlUOAhwTJVPWumbBESjtLAClYQ1IXoDq3OWmVg9g=",
-      "DysonSphereBlueprints.Gamelibs.i9ddtethgf.wasm": "sha256-mja3Kdypicm3DKGzUYmvDnXYNGBbilqUxurjHv77rWw=",
-      "DysonSphereBlueprints.ItemStore.047fwkx4ur.wasm": "sha256-QC4o/uGAzR6k4ty/OjI440aD9gasj2Tt6JlZrR5A0Ms=",
-      "DysonSphereBlueprints.Web.raa92nxxg3.wasm": "sha256-nRU+L9TQ8S6WPAKyMDPSnoJVAAC2BVFX3UBwJUcbFrY=",
+      "DysonSphereBlueprints.Analysis.03p7tlx5os.wasm": "sha256-RIQDzgp8farkLqiY5FKt36bX7SFvpnD1iQiRMWh9CTw=",
+      "DysonSphereBlueprints.Gamelibs.e5n2pgkybv.wasm": "sha256-sprleokxVWVmQAhHoopjsrhoI1ftZT+Q9Dabqq5yDO0=",
+      "DysonSphereBlueprints.ItemStore.vfkwp2nc1l.wasm": "sha256-hV9IE6fyXnfH9Dt2t1cUrG/bavE2D9fZaHDFW3gIN2U=",
+      "DysonSphereBlueprints.Web.umtockefdm.wasm": "sha256-+ldo5s7WrabvxdtmHf87Fokq3ZEF6qd3JYqDnYkMvoI=",
       "Microsoft.AspNetCore.Components.Forms.o9iakyungi.wasm": "sha256-/HaFHd6QQWcyHs5zTBqK/ImNoZNoWFYfSqtPRMdi9is=",
       "Microsoft.AspNetCore.Components.g07nhv2huf.wasm": "sha256-QHBopyibyeB0xWdyt7ni1Ee25Vve4IuyUCQcFTUhdjo=",
       "Microsoft.AspNetCore.Components.Web.mi6jiwti78.wasm": "sha256-QjbEY5VSGujdmeFRCifKWZkH863lNbr7bq13SjXtaFQ=",
